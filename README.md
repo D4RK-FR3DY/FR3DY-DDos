@@ -15,7 +15,7 @@ YERLİ ve MİLLİ (TÜRKÇE OLARAK YAZILMIŞ) BİR DDos ARACIDIR. =TÜRK SİTELE
 
 ### chmod 777 fr3dy-ddos.py
 
-### python ddos-attack.py
+### python2  fr3dy-ddos.py
 
 ### YouTube Kanalım:
 
@@ -23,4 +23,4 @@ https://www.youtube.com/c/FR3DY
 
 ### Instagram Hesapım:
 
-https://www.instagram.com/x_fr3dy
+https://www.instagram.com/x_fr3dy2 
