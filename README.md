@@ -19,7 +19,7 @@ YERLİ ve MİLLİ (TÜRKÇE OLARAK YAZILMIŞ) BİR DDos ARACIDIR. =TÜRK SİTELE
 
 ### YouTube Kanalım:
 
-https://www.youtube.com/c/FR3DY
+https://youtube.com/channel/UC6UxObT-4mA6Hq1CKzlLY5Q
 
 ### Instagram Hesapım:
 
