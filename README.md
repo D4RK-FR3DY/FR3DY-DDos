@@ -23,4 +23,4 @@ https://www.youtube.com/c/FR3DY
 
 ### Instagram Hesapım:
 
-https://www.instagram.com/x_fr3dy2 
+https://www.instagram.com/x.fr3dy
